@@ -24,6 +24,7 @@ This project involves creating a dashboard for Marven Market to analyze sales an
 
 ## Dashboard Results
 
-![image](https://github.com/user-attachments/assets/6b2ab4e7-3796-4ccb-beee-8565ede23d06)
+![image](https://github.com/user-attachments/assets/35c8eb14-781d-4393-b1b7-6bd5b2d5f8ae)
+
 
 
