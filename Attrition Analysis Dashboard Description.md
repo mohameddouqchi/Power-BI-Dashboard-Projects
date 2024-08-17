@@ -1,11 +1,11 @@
-## Attrition Analysis Dashboard
+# Attrition Analysis Dashboard
 
 This Power BI dashboard focuses exclusively on attrition analysis, providing a detailed view of employee turnover trends and insights.
 
-# Unique Design Approach:
+## Unique Design Approach:
 The design for this dashboard was initially created in PowerPoint to ensure a visually appealing layout. The finalized design was then implemented in Power BI, combining aesthetic appeal with functional data analysis.
 
-# Key Features:
+## Key Features:
 - Attrition Analysis: Comprehensive examination of employee turnover rates, including key trends, reasons for attrition, and insights for improving employee retention.
 
 
