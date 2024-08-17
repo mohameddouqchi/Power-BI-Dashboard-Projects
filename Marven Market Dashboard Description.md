@@ -1,2 +1,2 @@
-# Power-BI-Dashboard-Projects
-This repository showcases a collection of Power BI projects that I've personally developed.
+# Power-BI-Dashboard-Projects Marven Market
+I developed a comprehensive project dashboard for Marven Market, focusing on analyzing sales and performance metrics. The dashboard provides a detailed overview of key performance indicators (KPIs), including sales trends, revenue growth, product performance, It offers visual insights through interactive charts and graphs, enabling stakeholders to make informed decisions. The dashboard is designed to track overall business performance, identify areas for improvement, and optimize sales strategies for better market penetration and profitability.
