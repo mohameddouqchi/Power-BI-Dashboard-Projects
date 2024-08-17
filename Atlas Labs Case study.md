@@ -3,13 +3,14 @@ This Power BI dashboard provides a comprehensive analysis of HR metrics for Atla
 The dashboard includes:
 
 - Overview: A high-level summary of key HR metrics, giving a snapshot of the overall HR health of the company.
+  
 ![image](https://github.com/user-attachments/assets/962b2fd4-3f65-4d4f-b221-96edf099d413)
-
 
 
 - Demographics Analytics: Insights into the workforce composition, including breakdowns by age, gender, department, and other relevant demographics.
 ![image](https://github.com/user-attachments/assets/4876eb5d-0d9e-48d5-8ed8-960150cfc268)
-  
+
+
 - Performance Tracker: Visualizations and metrics tracking employee performance, helping to identify high performers and areas where improvements are needed.
 ![image](https://github.com/user-attachments/assets/39237006-1af4-4c95-9a40-c75d2a25e4f2)
 
